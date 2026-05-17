@@ -1,0 +1,8 @@
+{
+  "name": "Team Kasagad Builders",
+  "description": "Professional construction, painting, and finishing services in the Philippines. Hindi perpekto, pero laging pulido.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
